@@ -1,0 +1,8 @@
+D:\23.11.5724\01\kalkulatorpertemuan1\bin\Debug\kalkulatorpertemuan1.exe.config
+D:\23.11.5724\01\kalkulatorpertemuan1\bin\Debug\kalkulatorpertemuan1.exe
+D:\23.11.5724\01\kalkulatorpertemuan1\bin\Debug\kalkulatorpertemuan1.pdb
+D:\23.11.5724\01\kalkulatorpertemuan1\obj\Debug\kalkulatorpertemuan1.csproj.AssemblyReference.cache
+D:\23.11.5724\01\kalkulatorpertemuan1\obj\Debug\kalkulatorpertemuan1.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5724\01\kalkulatorpertemuan1\obj\Debug\kalkulatorpertemuan1.csproj.CoreCompileInputs.cache
+D:\23.11.5724\01\kalkulatorpertemuan1\obj\Debug\kalkulatorpertemuan1.exe
+D:\23.11.5724\01\kalkulatorpertemuan1\obj\Debug\kalkulatorpertemuan1.pdb
